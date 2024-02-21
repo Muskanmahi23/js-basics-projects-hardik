@@ -9,12 +9,12 @@ let valueInNumber = Number(score)
 let isLoggedIn = 1;
 
 let booleanIsLoggedIn = Boolean(isLoggedIn);
-console.log(booleanIsLoggedIn);
+// console.log(booleanIsLoggedIn);
 
 let isString = "Hardik";
 
 let booleanIsString = Boolean(isString)
-console.log(booleanIsString);
+// console.log(booleanIsString);
 
 // "33" => 33
 // "33abc" => NaN
@@ -23,6 +23,25 @@ console.log(booleanIsString);
 let someNumber = 55
 
 let stringNumber = String(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+// ********************* Operations **********************
+
+let value = 3;
+let negValue = -value;
+// console.log(negValue);
+
+// console.log(true);
+// console.log(+true);
+// console.log(+"");
+
+
+let num1, num2, num3
+
+num1 = num2 = num3 = 2 + 2
+
+let gameCounter = 100
+gameCounter++
+console.log(gameCounter);
 
