@@ -26,3 +26,28 @@ let myobj = {
 const myFunction = function(){
     console.log("Hello world");
 }
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Memory are of two types Stack(All primitive type Stack memory has used) and Heap(All non-primitive or Reference type Heap memory has used) Memory
+
+let myYoutubename = "hardikkumardotcom"
+
+let anothername = myYoutubename
+anothername = "chaiaurcode"
+
+console.log(myYoutubename);
+console.log(anothername);
+
+let userOne = {
+    email: "user@google.com",
+    upi: "user@ybl"
+}
+
+let userTwo = userOne
+
+userTwo.email = "hardik@google.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
