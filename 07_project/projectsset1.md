@@ -1,6 +1,6 @@
 
 
-## project 1
+## project 1 Color-changer
 
 ```index.html
 
@@ -120,7 +120,7 @@ buttons.forEach(function (button) {
 
 ```
 
-## project 2 solution
+## project 2 solution BMI Calculator
 
 ```index.html
 
@@ -238,7 +238,7 @@ form.addEventListener('submit', function (event) {
 
 ```
 
-## project 3 solution code
+## project 3 solution code Digital Clock
 
 ```index.html
 
@@ -297,7 +297,7 @@ setInterval(function () {
 
 ```
 
-## project 4 solution
+## project 4 solution GuessTheNumber
 
 ```index.html
 
