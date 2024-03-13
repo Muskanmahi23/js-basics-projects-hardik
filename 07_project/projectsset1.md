@@ -526,7 +526,6 @@ function newGame() {
   });
 }
 
-
 ```
 
 ## project 5 solution 6-unlimitedColors
@@ -587,4 +586,6 @@ document.querySelector('#start').addEventListener('click', startChangingColor);
 document.querySelector('#stop').addEventListener('click', stopChangingColor);
 
 ```
+
+
 
